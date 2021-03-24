@@ -11,23 +11,23 @@ I’ll would need to prompt a player to take their turn at hitting a ship by inp
 •	As a user, I want to place a ship on a board.  <br />
 •	As user, I want to know when a specific ship has been fully destroyed.  <br />
 •	As a user, I want to be alerted when I win or lose the game.  <br />
-•	As user, I want to know when a specific ship has been hit. 
-•	As a user, I want to start a game against another player. 
+•	As user, I want to know when a specific ship has been hit.  <br />
+•	As a user, I want to start a game against another player.  <br />
 ## Epics 
-•	Load Game Rules and Board. 
-•	Allow users and computer to place ships. 
-•	Allow users and computer to fire at ships. 
-•	Win conditions of the game. 
+•	Load Game Rules and Board.  <br />
+•	Allow users and computer to place ships.  <br />
+•	Allow users and computer to fire at ships.  <br />
+•	Win conditions of the game.  <br />
 ## Tasks
-•	The player should be able to fire at the opponents ships on a turn by turn basis. 
-•	An overall scoreboard should be displayed throughout the game. 
-•	When all ships are destroyed player either wins or loses. 
-•	If the player hits or misses a ship they should be alerted. 
-•	If an opponent’s ship is hit or missed they should be alerted. 
-•	If an opponent’s ship is destroyed they should be alerted. 
-•	Load game board and ships from a config file. 
-•	The user should have the ability to change the size of the board and ships. 
-•	Allow players to place ships of specific sizes on a board. 
+•	The player should be able to fire at the opponents ships on a turn by turn basis.  <br />
+•	An overall scoreboard should be displayed throughout the game.  <br />
+•	When all ships are destroyed player either wins or loses.  <br />
+•	If the player hits or misses a ship they should be alerted.  <br />
+•	If an opponent’s ship is hit or missed they should be alerted.  <br />
+•	If an opponent’s ship is destroyed they should be alerted.  <br />
+•	Load game board and ships from a config file.  <br />
+•	The user should have the ability to change the size of the board and ships.  <br /> 
+•	Allow players to place ships of specific sizes on a board.  <br />
 
 
 ## Reflective review, opportunities to improve and continued professional development.
