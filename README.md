@@ -6,11 +6,11 @@ I’ll would need to prompt a player to take their turn at hitting a ship by inp
 
 
 ## User Stories 
-•	As a user, I want to start a game against a computer. 
-•	As a user, I want to fire a torpedo at an opponent’s board. 
-•	As a user, I want to place a ship on a board. 
-•	As user, I want to know when a specific ship has been fully destroyed. 
-•	As a user, I want to be alerted when I win or lose the game. 
+•	As a user, I want to start a game against a computer.  <br />
+•	As a user, I want to fire a torpedo at an opponent’s board.  <br />
+•	As a user, I want to place a ship on a board.  <br />
+•	As user, I want to know when a specific ship has been fully destroyed.  <br />
+•	As a user, I want to be alerted when I win or lose the game.  <br />
 •	As user, I want to know when a specific ship has been hit. 
 •	As a user, I want to start a game against another player. 
 ## Epics 
