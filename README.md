@@ -34,3 +34,5 @@ I’ll would need to prompt a player to take their turn at hitting a ship by inp
 Overall, the the dev
 The code below shows an example of code duplication. This code could have been improved by placing it in a single function and then called where appropriate. Code duplication can be very hard to  maintain especially when there is a bug as it can be very hard to modify all the instances of that particular code, not easy to test etc. 
 
+![image](https://user-images.githubusercontent.com/56549229/112328112-ebe7cd00-8cad-11eb-8ad4-59448a62f62c.png)
+
